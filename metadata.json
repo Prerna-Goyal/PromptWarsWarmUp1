@@ -1,0 +1,5 @@
+{
+  "name": "EcoAI: AI Footprint Tracker",
+  "description": "Measure and attribute the carbon, energy, and water footprint of AI workloads across Training, Fine-tuning, and Inference.",
+  "requestFramePermissions": []
+}
